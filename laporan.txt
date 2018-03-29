@@ -1,0 +1,7 @@
+LBE Pertemuan 2:
+
+Yang saya dapat adalah:
+1. Class dan Objek
+2. Constructor dan Destructor
+3. Inheritance
+4. Aksesor: public, private, protected
